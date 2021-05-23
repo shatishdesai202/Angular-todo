@@ -1,0 +1,20 @@
+.task {
+  margin-top: 15px;
+  border: green 1px solid;
+  background-color: #f8f9fa;
+  display: flex;
+}
+.taskWrapper {
+  width: -webkit-fill-available;
+}
+.taskContainer {
+  grid-gap: 20px;
+  white-space: nowrap;
+}
+.cursor {
+  cursor: pointer;
+}
+.closeIcon {
+  width: -webkit-fill-available;
+  text-align: end;
+}

@@ -1,0 +1,10 @@
+.rootComponent {
+  margin-top: 40px;
+  border: grey 1px solid;
+  height: auto;
+  padding-bottom: 10px;
+}
+.wrapperComponent {
+  display: flex;
+  justify-content: space-between;
+}
